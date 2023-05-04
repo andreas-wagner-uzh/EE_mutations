@@ -1,6 +1,6 @@
 The code in this repository analyses the data from the paper 
 "Evolvability-enhancing mutations in the fitness landscape of an RNA and a protein"
-byAndreas Wagner
+by Andreas Wagner, Nature Communications (2023)
 
 It is executable on a Windows 10 workstation running
 spyder 5.3.3., python 3.8.10 (64 bit), and jupyter notebook 6.4.12. It requires
